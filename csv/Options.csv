@@ -5,8 +5,8 @@ Storymap Logo,
 Author Name,"Maja – voluntaria SIG, Estación Científica Los Cedros"
 Author Email or Website,
 Author GitHub Repo Link,https://github.com/majafrantasramek/Los-Cedros-
-Code Credit,<a href='https://github.com/handsondataviz/leaflet-storymaps-with-google-sheets'>code</a> by HandsOnDataViz
-Basemap Tiles,CartoDB.Positron
+Code Credit,HandsOnDataViz
+Basemap Tiles,OpenTopoMap
 Basemap Tiles API Key,
 Zoom Controls,topright
 Narrative Width,400
