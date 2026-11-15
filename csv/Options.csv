@@ -1,0 +1,20 @@
+Setting,Customize
+Storymap Title,El bosque protector Los Cedros
+Storymap Subtitle,Un bosque nublado en los Andes del Ecuador
+Storymap Logo,
+Author Name,"Maja – voluntaria SIG, Estación Científica Los Cedros"
+Author Email or Website,
+Author GitHub Repo Link,https://github.com/majafrantasramek/Los-Cedros-
+Code Credit,<a href='https://github.com/handsondataviz/leaflet-storymaps-with-google-sheets'>code</a> by HandsOnDataViz
+Basemap Tiles,CartoDB.Positron
+Basemap Tiles API Key,
+Zoom Controls,topright
+Narrative Width,400
+Media Container Height,300
+Pixels After Final Chapter,600
+Narrative Background Color,#ffffff
+Narrative Text Color,#222222
+Active Chapter Background Color,#e8efe3
+Narrative Link Color,#4F7A43
+Google Analytics Tracking ID,
+Enable Lightbox for Images,yes

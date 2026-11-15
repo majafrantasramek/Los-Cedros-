@@ -1,0 +1,4 @@
+Chapter,Media Link,Media Credit,Media Credit Link,Description,Zoom,Marker,Marker Color,Latitude,Longitude,Overlay,Overlay Transparency,GeoJSON Overlay,GeoJSON Feature Properties
+¿Dónde está Los Cedros?,,,,"Texto de prueba: Los Cedros está en el noroccidente del Ecuador, provincia de Imbabura.",6,Hidden,,0.3086,-78.7793,,,,
+La Estación Científica,,,,Texto de prueba: aquí está la estación.,14,Plain,green,0.3086,-78.7793,,,,
+El agua,,,,Texto de prueba: los ríos del bosque protector.,12,Hidden,,0.3086,-78.7793,,,,
