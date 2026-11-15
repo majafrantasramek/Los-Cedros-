@@ -11,7 +11,7 @@ Basemap Tiles API Key,
 Zoom Controls,topright
 Narrative Width,400
 Media Container Height,300
-Pixels After Final Chapter,600
+Pixels After Final Chapter,1000
 Narrative Background Color,#ffffff
 Narrative Text Color,#222222
 Active Chapter Background Color,#e8efe3
